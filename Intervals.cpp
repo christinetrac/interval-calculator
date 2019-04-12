@@ -484,7 +484,7 @@ void interval_calculator(){
 			 }
 		 }
 
-		//cartesian integers command NEED TO FIX i tried to fix it
+		//cartesian integers command 
 		else if(command == "cartesian_integers"){
 			double c{};
 			double d{};
